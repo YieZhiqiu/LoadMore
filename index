@@ -111,9 +111,6 @@
       child.innerText = data[i]
       ct.appendChild(child)
     }
-  }
-  
-  
-      
+  }   
     </script>
 </html>
